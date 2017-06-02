@@ -1,3 +1,7 @@
 .whales, .turtles, .snakes {
   display: none;
 }
+
+body {
+  color: blue;
+}
